@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">Passionate computer science student with a strong foundation in web development, competitive programming, and machine learning, continually exploring innovative solutions through software engineering, and creative project development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/462698316_3957963241151015_8784687335717214855_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeExfDVYFONL9l1LfUobDYqUdE0CLIaNYsx0TQIsho1izJKkZFOMHejqzADdpuvE--kZIVw6CUqWCtkjC8rwoplZ&_nc_ohc=-s2R4fB9WlQQ7kNvgF_7V7N&_nc_oc=AdgZbjIAVVM_chyPaE5C10vyVKmDAQDrT3xIKRiygTOi07YFt8l7TUt1CBUuKFTRViA&_nc_zt=23&_nc_ht=scontent.fcai20-1.fna&_nc_gid=AMr_CpigZR7wVIhUuaUdT9l&oh=00_AYBaOCu4Uieo0iWzsBwIjKnwF6WaW5djHHlqNHJuNpQqQw&oe=67753C33"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megox&label=Profile%20views&color=0e75b6&style=flat" alt="megox" /> </p>
