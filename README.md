@@ -2,7 +2,18 @@
 
 <h2 align="center">Hi 👋! My name is Ahmed Mohamed<br> and I'm a Software Engineer, from Egypt</h2>
 
+Aspiring backend developer with strong foundations in object-oriented programming, data structures, 
+and system design. Experienced in building scalable, secure, and maintainable web applications and 
+APIs using modern backend technologies. Proficient in relational databases (SQL Server, MySQL), 
+RESTful service design, and message-driven architectures. Comfortable working with both .NET and 
+Java stacks, with a growing focus on the Java ecosystem. Strong problem-solving and debugging 
+skills, reinforced by a background in competitive programming. 
+
 ###
+
+## 📄 Resume
+
+You can view or download my resume [here](https://drive.google.com/file/d/16_1ncp3xIEpdz5iS55C-4feoId4a6Nk7/view?usp=sharing).
 
 <div align="center">
   
@@ -24,4 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
